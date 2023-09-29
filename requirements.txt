@@ -26,7 +26,7 @@ statsmodels
 #itertools
 seaborn
 numerize
-sklearn
+scikit-learn
 
 langchain==0.0.180
 openai==0.27.7
