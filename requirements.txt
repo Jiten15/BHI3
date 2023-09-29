@@ -23,7 +23,7 @@ seaborn==0.12.2
 pandas-profiling==3.2.0
 pmdarima
 statsmodels
-itertools
+#itertools
 seaborn
 numerize
 sklearn
